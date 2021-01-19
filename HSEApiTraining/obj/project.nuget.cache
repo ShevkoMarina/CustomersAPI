@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "BduU90ThjRz1oJNnkvJsyory5Nc9cPGs8YhRl76MrwjhF2K1OdbXSSrl55UFczTTUZz6/QSqdeyWk8BMNOM4jQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Мусик\\Documents\\Mykdz-api\\HSEApiTraining\\HSEApiTraining.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Мусик\\.nuget\\packages\\dapper\\2.0.30\\dapper.2.0.30.nupkg.sha512",
+    "C:\\Users\\Мусик\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Мусик\\.nuget\\packages\\microsoft.openapi\\1.1.4\\microsoft.openapi.1.1.4.nupkg.sha512",
+    "C:\\Users\\Мусик\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Мусик\\.nuget\\packages\\swashbuckle.aspnetcore\\5.3.1\\swashbuckle.aspnetcore.5.3.1.nupkg.sha512",
+    "C:\\Users\\Мусик\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.3.1\\swashbuckle.aspnetcore.swagger.5.3.1.nupkg.sha512",
+    "C:\\Users\\Мусик\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.3.1\\swashbuckle.aspnetcore.swaggergen.5.3.1.nupkg.sha512",
+    "C:\\Users\\Мусик\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.3.1\\swashbuckle.aspnetcore.swaggerui.5.3.1.nupkg.sha512",
+    "C:\\Users\\Мусик\\.nuget\\packages\\system.data.sqlite\\1.0.112\\system.data.sqlite.1.0.112.nupkg.sha512",
+    "C:\\Users\\Мусик\\.nuget\\packages\\system.data.sqlite.core\\1.0.112\\system.data.sqlite.core.1.0.112.nupkg.sha512",
+    "C:\\Users\\Мусик\\.nuget\\packages\\system.reflection.emit.lightweight\\4.6.0\\system.reflection.emit.lightweight.4.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
